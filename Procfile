@@ -1,1 +1,1 @@
-web: node ./voice-to-ai-engines.js
+web: node voice-to-ai-engines.js
